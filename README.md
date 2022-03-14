@@ -14,7 +14,7 @@
 * I am the Github Extern Summer Cohort 2021 at BeagleBoard.org Texas.
 * Cyber Security Intern at Skillvertex.
 
-   1st Internship in Beagleboard, collaborated with the a Ditigal Forensic Expert Dr.Philip Polstra and Developed the 2nd version of the Portable Penetration Testing Platform specially designed for the Beagleboard AI called ***The Deck Linux***. It has a fully loaded with the pre-installed Ethical Hacking tools and Forensic Tools.
+   1st Internship in Beagleboard, collaborated with the a Ditigal Forensic Expert Dr.Philip Polstra and Developed the 2nd version of the Portable Penetration Testing Platform specially designed for the Beagleboard AI called ***The Deck Linux***. It has a fully loaded with the pre-installed Ethical Hacking tools and Forensic Tools, It had been published to the Sourceforge.net.
    And in my second intern developed an AI & ML based Spam Email Classification which will directly read the mails from mai dynamically and classify whether it is a Spam or Ham mail.
    One of my another intresting project is face and voice recognition project by using opencv and Mycroft, just like an virtual assistant like Alexa and Siri. Its not that advanced assistant but it can do most of the things.
 
@@ -106,10 +106,6 @@
     
     
 </p>
-
-## :tada: My Biggest Achievment 
-
-
 
 
 ## 📊 Github Stats 
