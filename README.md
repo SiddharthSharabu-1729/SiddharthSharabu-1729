@@ -4,9 +4,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+Student;Cyber+Security+and;DS%20|%20AI%20|%20ML%20Enthusiast;Linux%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Iam an B.Tech Graduate in the stream of Electrical and Electronics Engineering at SVR Engineering College. I am a Cyber Security and Ehical Hacking Enthusiast.</h4>
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SiddharthSharabu-1729&label=Profile%20views&color=0e75b6&style=plastic" alt="SiddharthSharabu-1729" /> </p>
+
+<h4 align="Left">Iam an B.Tech Graduate in the stream of Electrical and Electronics Engineering at SVR Engineering College. I am a Cyber Security and Ehical Hacking Enthusiast.</h4>
+<br>
+
+### Brief About me :
+
+* I am the Github Extern Summer Cohort 2021 at BeagleBoard.org Texas.
+* Cyber Security Intern at Skillvertex.
+
+   1st Internship in Beagleboard, collaborated with the a Ditigal Forensic Expert Dr.Philip Polstra and Developed the 2nd version of the Portable Penetration Testing Platform specially designed for the Beagleboard AI called ***The Deck Linux***. It has a fully loaded with the pre-installed Ethical Hacking tools and Forensic Tools.
+   And in my second intern developed an AI & ML based Spam Email Classification which will directly read the mails from mai dynamically and classify whether it is a Spam or Ham mail.
+   One of my another intresting project is face and voice recognition project by using opencv and Mycroft, just like an virtual assistant like Alexa and Siri. Its not that advanced assistant but it can do most of the things.
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSharabu-1729&theme=algolia" alt="SiddharthSharabu-1729"  /></p>
